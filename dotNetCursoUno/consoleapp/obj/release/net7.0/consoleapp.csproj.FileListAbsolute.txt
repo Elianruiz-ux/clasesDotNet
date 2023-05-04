@@ -1,0 +1,15 @@
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\bin\release\net7.0\consoleapp.exe
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\bin\release\net7.0\consoleapp.deps.json
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\bin\release\net7.0\consoleapp.runtimeconfig.json
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\bin\release\net7.0\consoleapp.dll
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\bin\release\net7.0\consoleapp.pdb
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\consoleapp.csproj.AssemblyReference.cache
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\consoleapp.AssemblyInfoInputs.cache
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\consoleapp.AssemblyInfo.cs
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\consoleapp.csproj.CoreCompileInputs.cache
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\consoleapp.dll
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\refint\consoleapp.dll
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\consoleapp.pdb
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\consoleapp.genruntimeconfig.cache
+D:\Users\ejruizca\IdeaProjects\clasesDotNet\dotNetCursoUno\consoleapp\obj\release\net7.0\ref\consoleapp.dll
